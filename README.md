@@ -4,3 +4,4 @@ This is an inventory system in basic way possible, it can be modified more and m
 <br/>  This is the little project made by me.
 <br/>Java is the language used. 
 <br/>Regex, Javax, swing is used.
+<br/> In this you can make bill too and print the receipt.
